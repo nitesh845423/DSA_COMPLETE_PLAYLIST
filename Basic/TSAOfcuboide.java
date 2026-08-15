@@ -4,6 +4,6 @@ public class TSAOfcuboide {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter lenth of cuboid: ");
         System.out.println("Enter breath of cuboide: ");
-        System.out.println("Enter ");
+        System.out.println("Enter height of cuboide: ");
     }
 }
