@@ -7,5 +7,6 @@ public class Arithmatic {
         System.out.println(x-y);
         System.out.println(x*y);
         System.out.println(x/y);
+        
     }
 }
