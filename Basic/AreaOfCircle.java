@@ -4,7 +4,7 @@ public class AreaOfCircle {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter radius of circle: ");
         //area of circel pi*r*r
-        double pi=22/7;
+        double pi=3.14;
         int r=sc.nextInt();
         double Area=pi*r*r;
         System.out.println("Area of circle: "+Area);
