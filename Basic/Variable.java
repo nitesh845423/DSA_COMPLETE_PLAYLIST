@@ -6,5 +6,6 @@ public class Variable {
         int y;//declaration
         y=20;//initialisation
         System.out.println(y);
+        System.out.println(x*y);
     }
 }
