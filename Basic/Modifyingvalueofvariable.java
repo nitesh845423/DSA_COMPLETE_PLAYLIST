@@ -10,7 +10,5 @@ public class Modifyingvalueofvariable {
         System.out.println(x);
         x=x/8;
         System.out.println(x);
-        x=x+2;
-        System.out.println(x);
     }
 }
