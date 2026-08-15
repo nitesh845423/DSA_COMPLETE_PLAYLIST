@@ -8,7 +8,10 @@ public class Arithmatic {
         System.out.println(x*y);
         System.out.println(x/y);
         double x1=39;
-
-        System.out.println(x/y);
+        double y1=10;
+        System.out.println(x+y);
+        System.out.println(x-y);
+        System.out.println(x*y);
+        System.out.println(x1/y1);
     }
 }
