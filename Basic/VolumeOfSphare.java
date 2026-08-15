@@ -5,6 +5,7 @@ public class VolumeOfSphare {
         System.out.print("Enter radius of sphere: ");
         int r=sc.nextInt();
         double pi=22/7;
-
+        Double Area=pi*r*r*r;
+        System.out.println("Area of Sphare: "+Area);
     }
 }
