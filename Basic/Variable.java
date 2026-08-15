@@ -3,7 +3,8 @@ public class Variable {
         int x=5;
         System.out.println(x);
         System.out.println(x+7);
-        int y;
-        
+        int y;//declaration
+        y=20;//initialisation
+        System.out.println(y);
     }
 }
