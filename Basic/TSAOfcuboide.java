@@ -5,6 +5,9 @@ public class TSAOfcuboide {
         System.out.println("Enter lenth of cuboid: ");
         int l=sc.nextInt();
         System.out.println("Enter breath of cuboide: ");
+        int b=sc.nextInt();
         System.out.println("Enter height of cuboide: ");
+        int h=sc.nextInt();
+        
     }
 }
