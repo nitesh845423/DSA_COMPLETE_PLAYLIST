@@ -23,7 +23,7 @@ public class Ascii {
     int x3=43;
     char ch3=(char)x3;
     System.out.println(ch);
-    int x4=70;
+    int x4=50;
     char ch4=(char)x4;
     System.out.println(ch4);
     }
