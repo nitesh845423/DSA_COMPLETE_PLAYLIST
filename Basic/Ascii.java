@@ -10,7 +10,7 @@ public class Ascii {
        char Nitesh='$';
        int y=Nitesh;
        System.out.println(y);
-       char Shivam='$';
+       char Shivam='@';
        int y1=(Shivam);
        System.out.println(y);
 
