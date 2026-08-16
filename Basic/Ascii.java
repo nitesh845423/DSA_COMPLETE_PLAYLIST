@@ -5,7 +5,7 @@ public class Ascii {
        // Digits:          0 = 48 to 9 = 57
        //typecasting->ek data type se dusre data type me conversion
        char ch='A';
-       int x=ch;
+       int x=ch;//implicit typecasting
        System.out.println(x);
     }
 }
