@@ -8,6 +8,7 @@ public static void main(String[] args) {
     Double r=sc.nextDouble();
     System.out.println("Enter time of interest: ");
     double t=sc.nextDouble();
-    
+    Double SI=(p*r*t)/100;
+    System.out.println("Simple interset is: "+SI);
 }
 }
