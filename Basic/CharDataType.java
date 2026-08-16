@@ -5,7 +5,8 @@ public class CharDataType {
         char c='a';
         System.out.println(c);
         char c1='e';
-        char eva='+';
-        System.out.println(eva);
+        System.out.println(c1);
+        char c2='+';
+        System.out.println(c2);
     }
 }
