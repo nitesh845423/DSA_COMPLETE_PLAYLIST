@@ -7,7 +7,7 @@ public static void main(String[] args) {
     System.out.println("Enter rae of interest: ");
     Double r=sc.nextDouble();
     System.out.println("Enter time of interest: ");
+    double t=sc.nextDouble();
     
-
 }
 }
