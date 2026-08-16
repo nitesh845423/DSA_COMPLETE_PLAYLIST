@@ -4,6 +4,7 @@ public class CharDataType {
         Scanner sc=new Scanner(System.in);
         char c='a';
         System.out.println(c);
-        char amir='e';
+        char c1='e';
+        
     }
 }
