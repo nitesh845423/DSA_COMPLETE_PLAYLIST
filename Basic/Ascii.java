@@ -7,5 +7,6 @@ public class Ascii {
        char ch='A';
        int x=ch;//implicit typecasting
        System.out.println(x);
+       char Nitesh='$';
     }
 }
