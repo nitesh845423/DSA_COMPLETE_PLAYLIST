@@ -11,7 +11,7 @@ public class Ascii {
        int y=Nitesh;
        System.out.println(y);
        char Shivam='$';
-       int y1=Shivam;
+       int y1=(Shivam);
        System.out.println(y);
 
     }
