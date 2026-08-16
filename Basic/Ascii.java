@@ -8,5 +8,7 @@ public class Ascii {
        int x=ch;//implicit typecasting
        System.out.println(x);
        char Nitesh='$';
+       int y=Nitesh;
+       System.out.println(y);
     }
 }
