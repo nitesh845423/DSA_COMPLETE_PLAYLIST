@@ -5,5 +5,7 @@ public class SumOfTwo {
         System.out.println("Enter first number: ");
         int n=sc.nextInt();
         System.out.println("Enter second number: ");
+        int m=sc.nextInt();
+        
     }
 }
