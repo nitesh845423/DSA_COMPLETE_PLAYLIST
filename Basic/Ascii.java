@@ -10,5 +10,6 @@ public class Ascii {
        char Nitesh='$';
        int y=Nitesh;
        System.out.println(y);
+       
     }
 }
