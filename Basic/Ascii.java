@@ -4,7 +4,8 @@ public class Ascii {
         // Small letters:   a = 97 to z = 122
        // Digits:          0 = 48 to 9 = 57
        //typecasting->ek data type se dusre data type me conversion
-       int x=10;
-       
+       char ch='A';
+       int x=ch;
+       System.out.println(x);
     }
 }
