@@ -11,8 +11,10 @@ public class Ascii {
        int y=Nitesh;
        System.out.println(y);
        char Shivam='@';
-       int y1=(Shivam);
-       System.out.println(y);
+       int y1=(int)Shivam;//explicit type casting mean dikha ke khuleyam karna
+       System.out.println(y1);
+       char c2='3';
+       System.out.println();
 
     }
 }
