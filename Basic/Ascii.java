@@ -16,7 +16,8 @@ public class Ascii {
        char c2='3';
        System.out.println((int)c2);
        //how to find ascii value of any character
-       System.out.println();
+       System.out.println(ch+0);
+       
 
     }
 }
