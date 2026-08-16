@@ -1,0 +1,6 @@
+import java.util.Scanner;
+public class CharDataType {
+    public static void main(String[] args) {
+        Scanner sc
+    }
+}
