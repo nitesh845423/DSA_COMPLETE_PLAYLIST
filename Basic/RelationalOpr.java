@@ -3,5 +3,7 @@ public class RelationalOpr {
         System.out.println(5>3);
         System.out.println(8<=9);
         System.out.println(5==4);
+        System.out.println(6==6);
+        
     }
 }
