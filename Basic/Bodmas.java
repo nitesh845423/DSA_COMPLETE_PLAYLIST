@@ -8,7 +8,7 @@ public class Bodmas {
         a=a*4;
         System.out.println(a);
         int x=10;
-        System.out.println(++x);//preincrement
+        System.out.println(++x);//preincrement->pahle ek badao o
 
     }
 }
