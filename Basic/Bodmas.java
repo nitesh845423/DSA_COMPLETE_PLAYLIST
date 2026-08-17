@@ -7,5 +7,8 @@ public class Bodmas {
         System.out.println(a);
         a=a*4;
         System.out.println(a);
+        int x=10;
+        System.out.println(++x);//preincrement
+
     }
 }
